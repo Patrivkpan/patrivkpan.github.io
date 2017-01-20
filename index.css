@@ -27,7 +27,7 @@ nav{
 
 .my_name{
 	font-family: Arial;
-	font-size: 32px;
+	font-size: 30px;
 	text-align: center;
 }
 
@@ -38,19 +38,27 @@ nav{
 }
 
 .profile_picture{
-	height: 500px;
-	width: 500px;
+	height: 300px;
+	width: 300px;
 }
 .others{
 	float: left;
 	position: relative;
-	left: 45px;
+	left: 5px;
+	top: 125px;
 	background-color: #6bb9f0;
 	padding: 12px;
 	text-align: justify;
-	font-size: 14px;
+	font-size: 17px;
+	height: 200px;
+}
+
+.abt_expct{
+	font-size: 17px;
 }
 
 .contact{
 	text-align: center;
+	font-size: 12px;
+	float: right;
 }
